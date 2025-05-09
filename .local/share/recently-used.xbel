@@ -2,4 +2,33 @@
 <xbel version="1.0"
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
-></xbel>
+>
+  <bookmark href="file:///home/marcos/identifiant.txt" added="2025-05-09T12:09:29.826326Z" modified="2025-05-09T12:09:29.826331Z" visited="2025-05-09T12:09:29.826326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-05-09T12:09:29.826328Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marcos/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202025-05-09%2014-43-32.png" added="2025-05-09T12:43:32.271078Z" modified="2025-05-09T12:43:32.271081Z" visited="2025-05-09T12:43:32.271079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-05-09T12:43:32.271079Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marcos/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202025-05-09%2014-44-11.png" added="2025-05-09T12:44:11.767587Z" modified="2025-05-09T12:44:11.767591Z" visited="2025-05-09T12:44:11.767588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-05-09T12:44:11.767588Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
